@@ -1,0 +1,2 @@
+# haveal-test-repo
+DataClass
